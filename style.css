@@ -12,7 +12,6 @@
     display: flex;
     justify-content: center;
     color: #f5f8f9;
-    /* background: rgb(204, 135, 133, 0.3); */
 }
 
 h1 {
@@ -33,7 +32,6 @@ h1 {
     width:350px;
     padding: 15px;
     color: #f5f8f9;
-    /* background: rgba(250, 245, 248, 0.8); */
     border: none;
     border-radius: 20px;
 }
@@ -45,14 +43,14 @@ h1 {
 a {
     text-decoration: none;
     font-size: 16px;
-    color: #ffff;
+    color: rgba(4, 1, 17, 0.973);
     font-family: 'Roboto', sans-serif;
     font-weight: 800;
 }
 
 a:hover {
     font-size: 15px;
-    color: rgba(4, 1, 17, 0.973);
+    color: #ffff;
     font-weight: 800;
 }
 
