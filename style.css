@@ -12,13 +12,12 @@
     display: flex;
     justify-content: center;
     background: #f5f8f9;
-    opacity:25%;
 }
 
 h1 {
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
-    color: #ffff;
+    color: #f5f8f9;
 }
 
 #btn-container {
